@@ -1,7 +1,7 @@
 # Configure AWS provider
 provider "aws" {
   region = "us-east-1"  # Change to your region
-  profile = "olabode"  # Change to your AWS CLI profile if needed
+  profile = "joseph"  # Change to your AWS CLI profile if needed
 }
 
 # 1. Create VPC for EKS
